@@ -1,0 +1,16 @@
+Reference,Quantity,Value,Footprint,Datasheet,CodeCommande,Fournisseur
+C1 C2,2,47pF,Common_Footprint:C_0402_NoSilk,,2496804,Farnell
+C3 C4 C5,3,100nF,Common_Footprint:C_0402_NoSilk,,2524735,Farnell
+C6,1,4.7uF,Common_Footprint:C_0402_NoSilk,,1735525,Farnell
+D1,1,KPTB-1615ESGC,Common_Footprint:KPTB-1615ESGC,http://www.farnell.com/datasheets/2046076.pdf?_ga=2.112153037.851817946.1543487860-506460182.1534760965,2426236,Farnell
+D2,1,DFLS230L-7,Common_Footprint:PowerDI-123,~,1858663,Farnell
+J1,1,USB_A,EEC:Molex-48037-1000-0,,2751683,Farnell
+J2,0,l0_Shield_Socket,Common_Footprint:l0_Shield_Socket,,,
+R1 R2,2,27,Common_Footprint:R_0402_NoSilk,,2447146,Farnell
+R3,1,4K7,Common_Footprint:R_0402_NoSilk,,2447187,Farnell
+R4,1,10K,Common_Footprint:R_0402_NoSilk,,2447096,Farnell
+R5,1,"66,5",Common_Footprint:R_0402_NoSilk,,2073198,Farnell
+R6,1,56,Common_Footprint:R_0402_NoSilk,,2073128,Farnell
+U1,1,FT230X,Common_Footprint:SSOP-16,,2081321,Farnell
+U2,1,STMPS2171STR,Common_Footprint:SOT-23-5,http://www.farnell.com/datasheets/1700527.pdf?_ga=2.259441679.482692836.1520344891-1702651347.1516354365&_gac=1.219205355.1520518736.CjwKCAiA24PVBRBvEiwAyBxf-Z_uYiKj8pUzbwUc6wrlSPkqDgkze3Y8m23AKDWhOEMfVt4HEEVP_BoCEEYQAvD_BwE,2762726,Farnell
+U3,1,USBLC6-2SC6,Common_Footprint:SOT23-6L,http://www2.st.com/resource/en/datasheet/CD00050750.pdf,1269406,Farnell
